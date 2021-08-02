@@ -134,10 +134,10 @@
   $(document).ready(function () {
     $('#optimize').click(function () {
       var input = $('#input').val();
-      $('#error').hide();;
+      $('#error').hide();
       var data = parseSignature(input);
       if (!data) {
-        $('#error').show();;
+        $('#error').show();
         return;
       }
       console.time('a');
