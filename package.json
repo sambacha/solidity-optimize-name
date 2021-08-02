@@ -1,0 +1,20 @@
+{
+  "name": "solidity-optimize-name",
+  "version": "1.0.0",
+  "description": "Find a optimized name for method.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/solidity-optimize-name.git"
+  },
+  "keywords": [],
+  "author": "SEE CONTRIBUTORS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sambacha/solidity-optimize-name/issues"
+  },
+  "homepage": "https://github.com/sambacha/solidity-optimize-name#readme"
+}
